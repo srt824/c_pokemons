@@ -4,3 +4,9 @@ C:\Users\storr\Desktop\CursoC#2\ejemplos-ado-net\dominio\bin\Debug\dominio.dll
 C:\Users\storr\Desktop\CursoC#2\ejemplos-ado-net\dominio\bin\Debug\dominio.pdb
 C:\Users\storr\Desktop\CursoC#2\ejemplos-ado-net\dominio\obj\Debug\dominio.dll
 C:\Users\storr\Desktop\CursoC#2\ejemplos-ado-net\dominio\obj\Debug\dominio.pdb
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\dominio\bin\Debug\dominio.dll
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\dominio\bin\Debug\dominio.pdb
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\dominio\obj\Debug\dominio.dll
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\dominio\obj\Debug\dominio.pdb

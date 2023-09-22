@@ -7,3 +7,12 @@ C:\Users\storr\Desktop\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.cspro
 C:\Users\storr\Desktop\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.CopyComplete
 C:\Users\storr\Desktop\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.dll
 C:\Users\storr\Desktop\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.pdb
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\bin\Debug\negocio.dll
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\bin\Debug\negocio.pdb
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\bin\Debug\dominio.dll
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\bin\Debug\dominio.pdb
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.dll
+C:\Users\storr\Desktop\MaxiProg\CursoC#2\ejemplos-ado-net\negocio\obj\Debug\negocio.pdb
